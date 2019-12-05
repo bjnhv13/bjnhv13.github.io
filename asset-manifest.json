@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.cc504d03.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.5cb5a8f5.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.5cb5a8f5.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.c3ce4b52.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.c3ce4b52.js.map",
+    "static/js/2.f0eaa88d.chunk.js": "/my-portfolio/static/js/2.f0eaa88d.chunk.js",
+    "static/js/2.f0eaa88d.chunk.js.map": "/my-portfolio/static/js/2.f0eaa88d.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.35c23d9871f37d7d71fd3c97f9f4099a.js": "/my-portfolio/precache-manifest.35c23d9871f37d7d71fd3c97f9f4099a.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.cc504d03.chunk.css.map": "/my-portfolio/static/css/main.cc504d03.chunk.css.map",
+    "static/media/index.css": "/my-portfolio/static/media/Agustina.21f233e1.woff",
+    "static/media/LiveU_Trans(On_White)_300x300.png": "/my-portfolio/static/media/LiveU_Trans(On_White)_300x300.7c77b010.png",
+    "static/media/attollo-logo.png": "/my-portfolio/static/media/attollo-logo.2ed185ab.png",
+    "static/media/developerActivity.svg": "/my-portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/all.css": "/my-portfolio/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/logo.svg": "/my-portfolio/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/my-portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/App.css": "/my-portfolio/static/media/pexels-photo-270360.e2208e60.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3ce4b52.js",
+    "static/js/2.f0eaa88d.chunk.js",
+    "static/css/main.cc504d03.chunk.css",
+    "static/js/main.5cb5a8f5.chunk.js"
+  ]
+}
