@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d84fdd42.chunk.css",
+    "main.css": "/static/css/main.efad84a0.chunk.css",
     "main.js": "/static/js/main.e0a504d2.chunk.js",
     "main.js.map": "/static/js/main.e0a504d2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fa74680c.js",
@@ -8,9 +8,9 @@
     "static/js/2.82f8fa66.chunk.js": "/static/js/2.82f8fa66.chunk.js",
     "static/js/2.82f8fa66.chunk.js.map": "/static/js/2.82f8fa66.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7a788cbb8f94707491dbeab8000960ea.js": "/precache-manifest.7a788cbb8f94707491dbeab8000960ea.js",
+    "precache-manifest.191c807f879774a49e7258e1f47ec70a.js": "/precache-manifest.191c807f879774a49e7258e1f47ec70a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.d84fdd42.chunk.css.map": "/static/css/main.d84fdd42.chunk.css.map",
+    "static/css/main.efad84a0.chunk.css.map": "/static/css/main.efad84a0.chunk.css.map",
     "static/media/index.css": "/static/media/Agustina.21f233e1.woff",
     "static/media/LiveU_Trans(On_White)_300x300.png": "/static/media/LiveU_Trans(On_White)_300x300.7c77b010.png",
     "static/media/attollo-logo.png": "/static/media/attollo-logo.2ed185ab.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.fa74680c.js",
     "static/js/2.82f8fa66.chunk.js",
-    "static/css/main.d84fdd42.chunk.css",
+    "static/css/main.efad84a0.chunk.css",
     "static/js/main.e0a504d2.chunk.js"
   ]
 }
