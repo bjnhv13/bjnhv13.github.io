@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a76d9ef8e3e1fdfea1d6a240dac0edf6",
+    "revision": "510b870913a15a0de68815ae680cf088",
     "url": "/index.html"
   },
   {
-    "revision": "2d7572ddcd60c411efc4",
-    "url": "/static/css/main.f9c497f1.chunk.css"
+    "revision": "0d4f4813f39997148607",
+    "url": "/static/css/main.c1bde85a.chunk.css"
   },
   {
-    "revision": "4b227ac0d1882cb90136",
-    "url": "/static/js/2.2722602f.chunk.js"
+    "revision": "0dedd87baeb4a32a906f",
+    "url": "/static/js/2.1d996508.chunk.js"
   },
   {
-    "revision": "2d7572ddcd60c411efc4",
-    "url": "/static/js/main.85f7e1b2.chunk.js"
+    "revision": "d2a3b7b66bb7d150d64294d9359e2f0b",
+    "url": "/static/js/2.1d996508.chunk.js.LICENSE"
   },
   {
-    "revision": "ea44d83cebadfff4bf7d",
-    "url": "/static/js/runtime-main.fa74680c.js"
+    "revision": "0d4f4813f39997148607",
+    "url": "/static/js/main.ab7fb04a.chunk.js"
+  },
+  {
+    "revision": "6440ecaaffc6bcca218a",
+    "url": "/static/js/runtime-main.04d699cd.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "95b8cf67de1a1b1a6850591e70d442e1",
+    "url": "/static/media/LU600-Interface.95b8cf67.jpg"
   },
   {
     "revision": "7c77b0107e5a8e9ff12e3778a471ec7a",
@@ -94,6 +102,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
+  },
+  {
+    "revision": "d3eda38dc19920df46ea6c065501143a",
+    "url": "/static/media/lu300-gui.d3eda38d.jpg"
+  },
+  {
+    "revision": "484d6c4d6dcdd53bcb157eb80772d3e3",
+    "url": "/static/media/lu600-databridge-gui.484d6c4d.jpg"
   },
   {
     "revision": "e2208e6055b73bde2158278e5def927a",
